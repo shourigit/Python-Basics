@@ -1,0 +1,4 @@
+name = "Congratulation"
+message = input("Enter your message: ")
+uppercase_message = message.upper()
+print(name + ": " + uppercase_message)
