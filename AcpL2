@@ -1,0 +1,11 @@
+birthday1 = "1-2-2000"
+birthday2 = "1-2-2001"
+birthday3 = "1-2-2002"
+birthday4 = "1-2-2003"
+birthday5 = "1-2-2004"
+
+print(birthday1)
+print(birthday2)
+print(birthday3)
+print(birthday4)
+print(birthday5)
